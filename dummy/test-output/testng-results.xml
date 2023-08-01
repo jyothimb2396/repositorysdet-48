@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T15:12:31 IST" name="Suite" finished-at="2023-07-21T15:12:31 IST" duration-ms="148">
+    <groups>
+      <group name="regression">
+        <method signature="Demo.good()[pri:0, instance:Practice1.Demo@2e3967ea]" name="good" class="Practice1.Demo"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Demo.bye()[pri:0, instance:Practice1.Demo@2e3967ea]" name="bye" class="Practice1.Demo"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-07-21T15:12:31 IST" name="Test_Runner2 " finished-at="2023-07-21T15:12:31 IST" duration-ms="140">
+      <class name="Practice1.Punter">
+        <test-method signature="asha()[pri:0, instance:Practice1.Punter@70e9c95d]" started-at="2023-07-21T15:12:31 IST" name="asha" finished-at="2023-07-21T15:12:31 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asha -->
+        <test-method signature="jyothi()[pri:0, instance:Practice1.Punter@70e9c95d]" started-at="2023-07-21T15:12:31 IST" name="jyothi" finished-at="2023-07-21T15:12:31 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jyothi -->
+        <test-method signature="kiran()[pri:0, instance:Practice1.Punter@70e9c95d]" started-at="2023-07-21T15:12:31 IST" name="kiran" finished-at="2023-07-21T15:12:31 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiran -->
+      </class> <!-- Practice1.Punter -->
+      <class name="Practice1.Demo">
+        <test-method signature="bye()[pri:0, instance:Practice1.Demo@2e3967ea]" started-at="2023-07-21T15:12:31 IST" name="bye" finished-at="2023-07-21T15:12:31 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+        <test-method signature="good()[pri:0, instance:Practice1.Demo@2e3967ea]" started-at="2023-07-21T15:12:31 IST" name="good" finished-at="2023-07-21T15:12:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- good -->
+      </class> <!-- Practice1.Demo -->
+    </test> <!-- Test_Runner2  -->
+    <test started-at="2023-07-21T15:12:31 IST" name="Test_Runner1" finished-at="2023-07-21T15:12:31 IST" duration-ms="148">
+      <class name="Practice1.Sample">
+        <test-method signature="hello()[pri:0, instance:Practice1.Sample@d5b810e]" started-at="2023-07-21T15:12:31 IST" name="hello" finished-at="2023-07-21T15:12:31 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method signature="hi()[pri:0, instance:Practice1.Sample@d5b810e]" started-at="2023-07-21T15:12:31 IST" name="hi" finished-at="2023-07-21T15:12:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi -->
+      </class> <!-- Practice1.Sample -->
+      <class name="Practice1.Distributedprgm">
+        <test-method signature="login()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="login" finished-at="2023-07-21T15:12:31 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="prgram1()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram1" finished-at="2023-07-21T15:12:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram1 -->
+        <test-method signature="prgram2()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram2" finished-at="2023-07-21T15:12:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram2 -->
+        <test-method signature="prgram3()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram3" finished-at="2023-07-21T15:12:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram3 -->
+        <test-method signature="prgram4()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram4" finished-at="2023-07-21T15:12:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram4 -->
+        <test-method signature="prgram5()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram5" finished-at="2023-07-21T15:12:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram5 -->
+        <test-method signature="prgram6()[pri:0, instance:Practice1.Distributedprgm@48f278eb]" started-at="2023-07-21T15:12:31 IST" name="prgram6" finished-at="2023-07-21T15:12:31 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prgram6 -->
+      </class> <!-- Practice1.Distributedprgm -->
+    </test> <!-- Test_Runner1 -->
+  </suite> <!-- Suite -->
+</testng-results>
